@@ -53,3 +53,52 @@ margin: auto;
 
 }
 
+.action{
+height: 330px;
+width: 1140px;
+display: flex;
+gap: 220px;
+padding: 141px;
+color: #FFFFFF;
+}
+
+.action-content{
+    padding: 62px;
+    text-align:left;
+    ga
+
+}
+
+.action-content h2{
+font-size: 42px;
+font-weight: bold;
+color: #252432;
+}
+
+.action-content p{
+font-size: 24px;
+font-weight: normal;
+color: #8987A1;
+}
+
+.action-content button{
+ color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border:none;
+    border-radius: 10px;
+    background-color: #4E47FF;
+
+}
+
+.action img{
+    height: 328px;
+    width: 405px;
+    border-radius: 50px;
+
+}
+
+
+
+
