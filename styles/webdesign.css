@@ -1,0 +1,55 @@
+.hero-banner {
+    background-image: url('../images/Hero-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 700px; 
+    width: 1550px;
+}
+.hero-header{
+display: flex;
+gap: 909px;
+padding: 115px 150px;
+}
+
+.logo{
+    font-size: 34px;
+    font-weight: bolder;
+    color: #4E47FF;
+}
+
+.signup-btn{
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border:none;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    
+}
+
+.hero-container{
+font-size: 65px;
+font-weight: bold;
+text-align: center;
+height: 240px;
+width: 900px;
+display: block;
+margin: auto;
+}
+
+.stayfocused-btn{
+        color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 12px 36px;
+    border:none;
+    border-radius: 10px;
+    background-color: #4E47FF;
+    display: block;
+    margin: 50px auto;
+
+
+}
+
