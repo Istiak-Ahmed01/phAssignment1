@@ -156,6 +156,90 @@ color: #8987A1;
   margin-top: 8px;
 }
 
+/* Review section */
+.review{
+  height: 342px;
+ margin: 137px auto;
+  max-width: 1200px;
+}
+
+.review h2{
+  font-size: 42px;
+  font-weight: bold;
+  color: #252432;
+  display: grid;
+  place-items: center;
+
+}
+
+.review-box{
+display: flex;
+gap: 10px;
+}
+
+.review-box-elements{
+height: 243px;
+width: 366px;
+border-radius: 14px;
+ background-color:white;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);;
+padding: 20px;
+margin: 0;
+ margin-bottom: 5px;
+
+}
+
+.rating{
+  display: inline-block;
+  font-size: 24px;
+}
+
+.star{
+  color: #ddd;
+}
+.star.filled{
+  color: #FFB805;
+}
+
+.review-box-elements h3{
+  font-size: 24px;
+  font-weight: 700;
+  color: #1E1E1E;
+}
+
+.review-box-elements p{
+  font-size: 16px;
+  font-weight: normal;
+  color: #B3B3B3;
+}
+
+.photo-name{
+  display: flex;
+  align-items: center;
+  gap:15px;
+}
+
+
+.text-info {
+    display: flex;
+    flex-direction: column;
+
+  
+}
+
+.name{
+  font-size: 16px;
+  font-weight: 700;
+  color: #757575;
+  margin: 0;
+}
+
+.date{
+  font-size: 16px;
+  font-weight: normal;
+  color: #B3B3B3;
+  margin: 0;
+}
 /* form section */
 .whole-form{
   height: 800px;
